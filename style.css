@@ -38,5 +38,12 @@ padding: 0;
 h3{
   font-family:Serif;
 }
+ .photo {
+                width: 200px;
+                border:6px ridge yellow;
+                margin-right:3px;
+                margin-bottom:3px;
+                
+            }
 </style>
  
