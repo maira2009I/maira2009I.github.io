@@ -29,6 +29,9 @@ padding: 0;
                 height:200px;
               overflow:auto;
         }
+  .pic {
+                width:70%;
+            }
         h2{
           font-family:Cursive;
         }
