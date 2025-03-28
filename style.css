@@ -49,6 +49,10 @@ h3{
                 margin-bottom:3px;
                 
             }
-    h3.dotted {border-style: dotted;}
+    h4.dotted {border-style: dotted;}
+    h4 {
+  border-style: solid;
+  border-color: rgb(153, 117, 159);
+}
 </style>
  
