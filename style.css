@@ -40,7 +40,7 @@ h3{
 }
  .photo {
                 width: 200px;
-                border:6px ridge yellow;
+                border:6px ridge rgba(89, 67, 178, 0.271);
                 margin-right:3px;
                 margin-bottom:3px;
                 
