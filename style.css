@@ -25,6 +25,9 @@ padding: 0;
 <style>
         .info {
             background-color:blue;
+           width:70%;
+                height:200px;
+              overflow:auto;
         }
         h2{
           font-family:Cursive;
