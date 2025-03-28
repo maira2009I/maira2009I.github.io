@@ -13,6 +13,9 @@ padding: 0;
   width: 100%;
   background: rgba(0,0,0,0.4);
 }
+.navbar ul{
+  float: right;
+}
  
 
 
