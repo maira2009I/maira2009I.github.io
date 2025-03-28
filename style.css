@@ -2,11 +2,9 @@
 padding: 0;
   margin: 0;
 }
-.stars{
-  background-color: blue;}
 .main{
   text-align:center;
-  background-color:pink;
+  background-color:rgba(244, 161, 175, 0.93);
 }
 .navbar{
   height: 80px;
@@ -28,9 +26,9 @@ padding: 0;
         .info {
             background-color:blue;
         }
+        h2{
+          font-family:Cursive;
+
+        }
 </style>
  
-
-
-
-
