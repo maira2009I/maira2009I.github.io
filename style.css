@@ -27,6 +27,8 @@ padding: 0;
   line-height: 80px;
  }
 <style>
+
+
         .info {
             background-color:blue;
            width:70%;
@@ -54,6 +56,167 @@ h3{
   border-style: solid;
   border-color: rgb(153, 117, 159);
 }
-  h4 {text-align: center;}
+{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: #caaeae;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #522727;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Let's Start Making Delicious Food!</h1>
+  <p>Resize the browser window to see the responsive effect.</p>
+</div>
+
+<div class="topnav">
+  <a href="#">Home</a>
+</div>
+
+<div class="row">
+  <div class="column">
+  <h1> <strong>List of ingredients</strong></h1>
+    <h2>Banana Bread</h2>
+    <p> <table>
+            <thead>
+                <tr>
+                    <th>Ingredient</th>
+                    <th>Amount</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>cake</td>
+                    <td>eggs</td>
+                    <td>$4.50</td>
+                </tr>
+                  <tr>
+                    <td>cake</td>
+                    <td>eggs</td>
+                    <td>$4.50</td>
+                </tr>
+                  <tr>
+                    <td>cake</td>
+                    <td>eggs</td>
+                    <td>$4.50</td>
+                </tr>
+            </tbody>
+        </table></p>
+  </div>
+  
+  <div class="column">
+    <h2>pasta</h2>
+    <p> <table>
+            <thead>
+                <tr>
+                    <th>Ingredient</th>
+                    <th>Amount</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>cake</td>
+                    <td>eggs</td>
+                    <td>$4.50</td>
+                </tr>
+                  <tr>
+                    <td>cake</td>
+                    <td>eggs</td>
+                    <td>$4.50</td>
+                </tr>
+                  <tr>
+                    <td>cake</td>
+                    <td>eggs</td>
+                    <td>$4.50</td>
+                </tr>
+            </tbody>
+        </table></p>
+  </div>
+  
+  <div class="column">
+    <h2>Chocolate Chip cookies</h2>
+    <p> <table>
+            <thead>
+                <tr>
+                    <th>Ingredient</th>
+                    <th>Amount</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>cake</td>
+                    <td>eggs</td>
+                    <td>$4.50</td>
+                </tr>
+                  <tr>
+                    <td>cake</td>
+                    <td>eggs</td>
+                    <td>$4.50</td>
+                </tr>
+                  <tr>
+                    <td>cake</td>
+                    <td>eggs</td>
+                    <td>$4.50</td>
+                </tr>
+            </tbody>
+        </table></p>
+  </div>
+</div>
 </style>
  
