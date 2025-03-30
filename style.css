@@ -113,18 +113,31 @@ body {
     width: 100%;
   }
 }
+
+h1 {
+  color: rgb(74, 11, 59);
+}
+h2 {
+  color: rgb(56, 10, 88);
+}
+
+  h1 {
+  text-decoration: underline;
+  text-align: center;
+}
 </style>
 </head>
 <body>
 
 <div class="header">
   <h1>Let's Start Making Delicious Food!</h1>
-  <p>Resize the browser window to see the responsive effect.</p>
 </div>
 
 <div class="topnav">
   <a href="#">Home</a>
 </div>
+
+<h1> WHAT YOU WILL NEED</h1>
 
 <div class="row">
   <div class="column">
@@ -139,26 +152,36 @@ body {
             </thead>
             <tbody>
                 <tr>
-                    <td>cake</td>
-                    <td>eggs</td>
-                    <td>$4.50</td>
+                    <td>Bananas </td>
+                    <td>2</td>
+                    <td>$1.04</td>
                 </tr>
                   <tr>
-                    <td>cake</td>
-                    <td>eggs</td>
-                    <td>$4.50</td>
+                    <td>Butter</td>
+                    <td>1/2 cup</td>
+                    <td>$4.87</td>
                 </tr>
                   <tr>
-                    <td>cake</td>
-                    <td>eggs</td>
-                    <td>$4.50</td>
+                    <td>Eggs</td>
+                    <td>2 large</td>
+                    <td>$2.75</td>
+                </tr>
+                <tr>
+                    <td>Flour</td>
+                    <td>2 cups</td>
+                    <td>$4.46</td>
+                </tr>
+                   <tr>
+                    <td>Sugar</td>
+                    <td>1/2 cup</td>
+                    <td>$2.75</td>
                 </tr>
             </tbody>
         </table></p>
   </div>
   
   <div class="column">
-    <h2>pasta</h2>
+    <h2>Pasta</h2>
     <p> <table>
             <thead>
                 <tr>
@@ -169,26 +192,35 @@ body {
             </thead>
             <tbody>
                 <tr>
-                    <td>cake</td>
-                    <td>eggs</td>
-                    <td>$4.50</td>
+                    <td>Flour</td>
+                    <td>2 cups</td>
+                    <td>$4.46</td>
                 </tr>
                   <tr>
-                    <td>cake</td>
-                    <td>eggs</td>
-                    <td>$4.50</td>
+                    <td>Eggs</td>
+                    <td>3 large</td>
+                    <td>$2.75</td>
                 </tr>
                   <tr>
-                    <td>cake</td>
-                    <td>eggs</td>
-                    <td>$4.50</td>
+                    <td>Salt</td>
+                    <td>pinch</td>
+                    <td>$2.75</td>
+                </tr>
+                <tr>
+                    <td>Sauce</td>
+                    <td>1 cup</td>
+                    <td>$2.50</td>
+                </tr>
+                <tr>
+                    <td>Water</td>
+                    <td>As much as needed</td>
                 </tr>
             </tbody>
         </table></p>
   </div>
   
   <div class="row">
-    <h2>Chocolate Chip cookies</h2>
+    <h2>Chocolate Chip Cookies</h2>
     <p> <table>
             <thead>
                 <tr>
@@ -199,19 +231,34 @@ body {
             </thead>
             <tbody>
                 <tr>
-                    <td>cake</td>
-                    <td>eggs</td>
-                    <td>$4.50</td>
+                    <td>Flour</td>
+                    <td>2 1/4 cups</td>
+                    <td>$4.46</td>
                 </tr>
                   <tr>
-                    <td>cake</td>
-                    <td>eggs</td>
-                    <td>$4.50</td>
+                    <td>Sugar</td>
+                    <td>3/4 cup</td>
+                    <td>$2.75</td>
                 </tr>
                   <tr>
-                    <td>cake</td>
-                    <td>eggs</td>
-                    <td>$4.50</td>
+                    <td>Salt</td>
+                    <td>1 teaspoon</td>
+                    <td>$2.75</td>
+                </tr>
+                 <tr>
+                    <td>Eggs</td>
+                    <td>1 large</td>
+                    <td>$2.75</td>
+                </tr>
+                 <tr>
+                    <td>Butter</td>
+                    <td>1 cup</td>
+                    <td>$4.87</td>
+                </tr>
+                 <tr>
+                    <td>chocolate</td>
+                    <td>2 cups</td>
+                    <td>$3.97</td>
                 </tr>
             </tbody>
         </table></p>
