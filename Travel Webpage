@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Travel</title>
+
+<style>
+h1 {
+color: #FFFFFF;
+background-color: darkslateblue; 
+}
+pink{
+background-color: darkslateblue;
+}
+
+}
+.new{
+color: darkblue;
+}
+</style>
+
+</head>
+<body style=background-color:powderblue;”>
+
+<h1>My Travel Website</h1>
+<h3> By:Maira Iffat</h1>
+<img src= “https://www.heraldinsight.co.kr/news/photo/202303/2006_3067_421.gif” alt= "flag" width= “203”>
+<h2 style=background-color:lightgrey;”>Introduction</h2>
+<p> Today I will be taking you through one of the places that I would like to visit. This spicific location is Istanbul which is located in Turkey. This location is quite beautiful with lots of intricate structures and landscapes that immediately draw in the attention of visitors. Not only this, but the food in this country is also quite tasty.</p>
+<h3 style=background-color:lightgrey;”>My travel site explained.</h3>
+<img src= “https://d36tnp772eyphs.cloudfront.net/blogs/1/2015/06/istanbul-architecture.jpg” alt= “Istanbul” width= “203”>
+<p><strong>Istanbul</strong> is a very beautiful location that is packed with a diverse culture and traditions. The incredible scenery is what truly makes this location quite distinct. <br> Istanbul is one of the largest cities in Turkey. Many of the structures in Turkey have vibrant colours, and shapes, something that we don't see on a regular basis in most European contries.</br> </p>
+<p><strong>Some of the most famous types of food in Istanbul are listed below.</strong></p>
+<ol>
+<li>Lahmacun</li>
+<li>Baklava</li>
+<li>Doner Kebab</li>
+<li>Kofta</li>
+</ol>
+<img src= “https://www.onthegotours.com/repository/Istanbul-Highlight--Web-Ready-306161467972129.jpg” alt= “landscape” width= “203”>
+<p>Turkey is full of large lakes and various appealing structures. This, and the fact that the country has a variety of food makes it one of the best tourist locations to visit.</p>
+
+</body>
+</html>
+
+
