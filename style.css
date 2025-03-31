@@ -1,3 +1,5 @@
+
+/*Maira Iffat: March 30,2025*/
 body{
     background-color: rgba(173, 169, 203, 0.675);
 }
@@ -26,8 +28,28 @@ padding: 0;
   display: inline-block;
   line-height: 80px;
  }
-<style>
+ 
+ {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+ }
+ .container
+{
+  width:900px;
+  height:700px;
+  overflow:hidden;
+  overflow-y:scroll;
+  text-align:center;
+}
+.div_item
+{
+  font-size:20px;
+  padding:10px;
+  color:rgb(59, 25, 25);
+}
 
+<style>
 
         .info {
             background-color:blue;
@@ -44,13 +66,7 @@ padding: 0;
 h3{
   font-family:Serif;
 }
- .photo {
-                width: 200px;
-                border:6px ridge rgba(89, 67, 178, 0.271);
-                margin-right:3px;
-                margin-bottom:3px;
-                
-            }
+            
     h4.dotted {border-style: dotted;}
     h4 {
   border-style: solid;
@@ -63,6 +79,7 @@ h3{
 body {
   margin: 0;
 }
+
 
 /* Style the header */
 .header {
@@ -125,6 +142,17 @@ h2 {
   text-decoration: underline;
   text-align: center;
 }
+h4 {
+  text-decoration: underline;
+  text-align: center;
+}
+.photo {
+                width: 400px;
+                border:6px ridge rgba(89, 67, 178, 0.271);
+                margin-right:40px;
+                margin-bottom:30px;
+              
+                
 </style>
 </head>
 <body>
